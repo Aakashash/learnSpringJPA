@@ -1,0 +1,2 @@
+insert into courses(id,name,author)
+values (1,'Learn Spring boot','root');
